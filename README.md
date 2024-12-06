@@ -1,4 +1,4 @@
-Welcome to News Sentiment Analysis! Check it our ![here](https://news-sentiment-analysis.streamlit.app).
+Welcome to News Sentiment Analysis! Check it our [here](news-sentiment-analysis.streamlit.app).
 
 ![landing](img/landing.png)
 
