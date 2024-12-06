@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+xmltodict
+transformers
+torch
+datetime
+plotly
+wordcloud
+dateutil
+numpy
+scikit-learn
